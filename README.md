@@ -79,3 +79,9 @@ population average response time is not same for congruent and incongruent tasks
 We can say that, people can not identify color words whose names match the colors in which they are printed 
 and words whose names do not match the colors  at the same speed.
 This is an expected result for me.
+
+### Resources
+
+[Minitab Paired T Test](https://statistics.laerd.com/minitab-tutorials/paired-t-test-using-minitab.php)
+
+[Minitab Normality Test](http://support.minitab.com/en-us/minitab/17/topic-library/basic-statistics-and-graphs/introductory-concepts/normality/test-for-normality/)
